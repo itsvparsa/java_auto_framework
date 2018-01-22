@@ -2,9 +2,9 @@
 Automated Maven Page Object Model test framework using Java, Cucumber, Selenium Webdriver
 
 # Whats needed
-Java
-Maven
-Drivers for selenium
-Browsers (Chrome or FF)
-Setting up system home/path varibles
-Eclipse or any other code editor
+1) Java
+2) Maven
+3) Drivers for selenium
+4) Browsers (Chrome or FF)
+5) Setting up system home/path varibles
+6) Eclipse or any other code editor

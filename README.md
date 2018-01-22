@@ -1,4 +1,4 @@
-# java_auto_framework
+# Cucumber Selenium with Java
 Automated Maven Page Object Model test framework using Java, Cucumber, Selenium Webdriver
 
 # Whats needed
